@@ -1,0 +1,13 @@
+.background {
+    background-color: rgb(189, 80, 80);
+    height: 125vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(photo-1501704163333-86d3832cd4ea.jpg)
+    
+  }
+
+  * {
+      color: rgb(33, 81, 214);
+  }
+  
