@@ -2,9 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "C:\\Users\\owner\\Desktop\\exta\\uofa-gil-fsf-pt-02-2020-u-c\\03-JavaScript\\01-Activities\\08-ConditionalDemo"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "homework3"
+		"liveServer.settings.multiRootWorkspaceName": "password"
 	}
 }
