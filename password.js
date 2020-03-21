@@ -11,6 +11,7 @@ var askQuestion5 = confirm("click on generate password");
 // my variable 
 var generatePassword = "0123456789!@#$%^&**()_-+[]:'.?ABCDEFGHIJKLMNOPKQRSTUVWXYZabcdefghijklmnopkqrstuvxwyz";
 
+
 // my function
 function generate() {
     var password='';
